@@ -1,2 +1,2 @@
-# nginx_demo
-Demo
+# Share Demos
+This repository support knowledge exchange events and demos
